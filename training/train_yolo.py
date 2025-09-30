@@ -1,0 +1,1 @@
+print("Instale ultralytics e rode: yolo detect train data=dataset/data.yaml model=yolov8n.pt epochs=50 imgsz=640")

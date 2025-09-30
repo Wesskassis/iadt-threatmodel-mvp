@@ -1,0 +1,4 @@
+path: ../dataset
+train: images/train
+val: images/val
+names: {0: user, 1: service, 2: api, 3: db, 4: queue, 5: cache, 6: external, 7: network, 8: server, 9: storage, 10: webapp}

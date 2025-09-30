@@ -1,0 +1,4 @@
+components:
+  user:
+    spoofing: ['Autenticação fraca']
+    mitigations: ['MFA']
